@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-Divyansh-React/static/css/main.d83d95e8.css",
+    "main.js": "/plan-with-Divyansh-React/static/js/main.c7ddf8f6.js",
+    "index.html": "/plan-with-Divyansh-React/index.html",
+    "main.d83d95e8.css.map": "/plan-with-Divyansh-React/static/css/main.d83d95e8.css.map",
+    "main.c7ddf8f6.js.map": "/plan-with-Divyansh-React/static/js/main.c7ddf8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83d95e8.css",
+    "static/js/main.c7ddf8f6.js"
+  ]
+}
